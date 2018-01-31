@@ -1,2 +1,0 @@
-# config
-Spring Config repository
